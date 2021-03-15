@@ -1,4 +1,5 @@
-# opendatapedia.github.io
-OpenDataPedia Website
+# gemapi-data.github.io
 
-https://opendatapedia.github.io/france
+GEMAPI DATA Website
+
+https://gemapi-data.github.io/gemapi_france
